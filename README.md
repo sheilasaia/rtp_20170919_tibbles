@@ -1,9 +1,25 @@
-# All about tibbles!
+# All about tibbles
 
-Meetup on September 19, 2017
+Tuesday, September 19, 2017
+6:00 PM to 8:00 PM
 
-Meetup Information: https://www.meetup.com/R-Ladies-RTP/events/243077630/
+Duke University - Rubenstein Library Room 349
+411 Chapel Drive 27705, Durham, NC
 
-While the materials for the workshop are designed for being used at the in-person workshop, all are welcomed to use and reuse them for learning and teaching.
+This meetup will feature a few 5-minute lightning talks followed by a hands on workshop on tibbles.
+
+If you're interested in giving a 5-minute lightning talk featuring your work in R (ideally related to the workshop topic, but we're flexible), please email mine@rladies.org and/or elaine@rladies.org with your brief pitch.
 
 
+Agenda:
+
+- 6:00pm - 6:15pm - Networking  
+- 6:15pm - 6:30pm - Lightning talks 
+    - Yu Chen - How I met R
+- 6:30pm - 6:45pm - Set up  
+- 6:45pm - 7:45pm - Workshop: All about tibbles (by Sheila Saia) 
+- 7:45pm - 8:00pm - Wrap up
+
+Space provided by Duke Libraries and dinner by the R Consortium.
+
+All events are intended for women as leaders, mentors, members, and attendees. We are emphatically queer and trans friendly. Men are welcomed to attend as guests. 
